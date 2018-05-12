@@ -1,0 +1,24 @@
+_repo: Amerika-sen-l-yt--valloitus-ja-kehitys_37822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hagman, Tyko
+    gutenberg_agent_id: '39050'
+    url: http://www.gutenberg.org/2009/agents/39050
+description: ''
+gutenberg_issued: '2011-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37822'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'United States -- History'
+title: Amerika, sen löytö, valloitus ja kehitys
+url: http://www.gutenberg.org/ebooks/37822
